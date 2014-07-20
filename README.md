@@ -1,10 +1,12 @@
-tml
-==========
+The Missing (Go) Library
+========================
 
 Description
 -----------
 
-tml provides extensions to the standard library
+tml provides some handy extensions to Go's excellent standard library. The
+focus is on making the programmers life easier and to reduce common boilerplate
+code.
 
 Installation
 ------------
